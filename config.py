@@ -96,7 +96,7 @@ prefix: List[str] = ["/", "!", "."]
 disabled_plugins: List[str] = []
 
 # API keys
-TENOR_API_KEY = "https://github.com/sbdnzheh/GFHFF33"
+TENOR_API_KEY = "1654079942"
 
 # Bot version, do not touch this
 with open("version.txt") as f:
